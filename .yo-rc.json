@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipsterwebsocket",
+    "packageName": "de.kumpelblase2.jhipsterwebsocket",
+    "packageFolder": "de/kumpelblase2/jhipsterwebsocket",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "45dddef5bc71cf10965df519ba37d1955c8c1e29"
+  }
+}
